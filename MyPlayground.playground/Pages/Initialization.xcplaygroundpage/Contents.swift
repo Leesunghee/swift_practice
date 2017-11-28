@@ -70,3 +70,9 @@ if let roomCount = john.residence?.numberOfRooms {
 } else {
     print("Uable to retrieve the number of rooms")
 }
+
+
+print("github test")
+
+
+
